@@ -1,0 +1,24 @@
+[Serwer -> ALL]: Ryan_Gosling dołączył do czatu.
+[Serwer -> ALL]: Ryan_Gosling opuścił czat.
+[Serwer -> ALL]: Jan_Nowak dołączył do czatu.
+[Serwer -> ALL]: Kowalski dołączył do czatu.
+[Serwer -> ALL]: Kowalski opuścił czat.
+[Serwer -> ALL]: Jan_Nowak opuścił czat.
+[Serwer -> ALL]: Macej dołączył do czatu.
+[Serwer -> ALL]: Poitr dołączył do czatu.
+[Poitr -> ALL]: hello
+[Serwer -> ALL]: Poitr opuścił czat.
+[Serwer -> ALL]: Macej opuścił czat.
+[Serwer -> ALL]: Jan dołączył do czatu.
+[Serwer -> ALL]: Jan opuścił czat.
+[Serwer -> ALL]: Jan dołączył do czatu.
+[Jan -> ALL]: hrj
+[Serwer -> ALL]: Jan opuścił czat.
+[Serwer -> ALL]: Jan dołączył do czatu.
+[Serwer -> ALL]: Jan opuścił czat.
+[Serwer -> ALL]: Jan dołączył do czatu.
+[Serwer -> ALL]: Piotr dołączył do czatu.
+[Serwer -> ALL]: maciej dołączył do czatu.
+[Serwer -> ALL]: Piotr opuścił czat.
+[Serwer -> ALL]: maciej opuścił czat.
+[Serwer -> ALL]: Jan opuścił czat.
